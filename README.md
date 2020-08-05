@@ -1,2 +1,2 @@
 # JavascriptCalculator
-In this project I created a calculator using javascript and designed using HTML and CSS.
+Here's a demo of a simple calculator with a stunning interface built from scratch with CSS, Javascript and of course HTML
